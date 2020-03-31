@@ -31,4 +31,7 @@ O VIM (VI improved) é um VI melhorado
 * Para buscar uma palavra no Vi/Vim, basta digitar '/' seguido da palavra para fazer a pesquisa
 ### Copiar, colar e recortar:
 * 'yy': copia a linha inteira. Você pode especificar a quantidade de linhas copiadas, por exemplo, o comando 'y3' copia a linha atual e as próximas 3
+* 'yw': copia a palavra inteira
 * 'p': cola
+* 'dd': recorta a linha atual inteira. O comando '3dd' recorta 3 linhas a partir da linha atual do cursor
+* 'dw': recorta a palavra atual de onde está o cursor
