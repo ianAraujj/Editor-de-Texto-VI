@@ -20,7 +20,7 @@ O VIM (VI improved) é um VI melhorado
 * ':set number' ativa a numeração de linhas. ':set nonumber' para desativar
 * O comando 'Ctrl + g' mostra a quantidade total de linhas do documento
 * O comando 'a' é usado para adicionar um texto a partir da posição seguinte do cursor 
-* '~': muda o case do caractere, exemplo: Se o cursor está no início dessa linha 'acid' e o comando '4~' for selecionado, o resultado vai ser a linha com 'ACID'
+* ~ : muda o case do caractere, exemplo: Se o cursor está no início dessa linha 'acid' e o comando '4~' for selecionado, o resultado vai ser a linha com 'ACID'
 * 'J' (maiúsculo): junta duas linhas
 * 'x': apaga o caractere em que está o cursor, vale lembra que você pode especificar quantos caracteres irão ser apagados
 * 'u': comando que desfaz a última operação e o 'Ctrl R' que refaz a última alteração. Com esses dois comandos, você pode desempinhar e empilhar a pilha de alteração do documento
