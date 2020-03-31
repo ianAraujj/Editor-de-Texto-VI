@@ -27,7 +27,7 @@ O VIM (VI improved) é um VI melhorado
 * ~ : muda o case do caractere, exemplo: Se o cursor está no início dessa linha 'acid' e o comando '4~' for selecionado, o resultado vai ser a linha com 'ACID'
 * 'J' (maiúsculo): junta duas linhas
 * 'x': apaga o caractere em que está o cursor, vale lembra que você pode especificar quantos caracteres irão ser apagados
-* 'u': comando que desfaz a última operação e o 'Ctrl R' que refaz a última alteração. Com esses dois comandos, você pode desempinhar e empilhar a pilha de alteração do documento
+* 'u': comando que desfaz a última operação e o 'Ctrl R' que refaz a última operação. Com esses dois comandos, você pode desempilhar e empilhar a pilha de alteração do documento
 * Para buscar uma palavra no Vi/Vim, basta digitar '/' seguido da palavra para fazer a pesquisa
 ### Copiar, colar e recortar:
 * 'yy': copia a linha inteira. Você pode especificar a quantidade de linhas copiadas, por exemplo, o comando 'y3' copia a linha atual e as próximas 3
